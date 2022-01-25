@@ -1,0 +1,67 @@
+body {margin:0px;padding:0px;}
+#s8-wrapper {
+    width:982px;
+    margin: 0 auto;
+}
+#s8-header {
+    width:982px;
+    height:216px;
+    background-image: url(8s-header-3.png);
+}
+#s8-left {
+    float:left;
+    width:643px;
+    height:600px;
+    margin:0 0 0 1px;
+    background-color:green;
+}
+#s8-text {
+    width:600px;
+    height:400px;
+    margin:30px 0 0 0;
+    font-size:18px;
+    background-color:magenta;
+}
+#s8-right {
+    float:right;
+    width:306px;
+    height:600px;
+    margin:0 1px 0 0;
+    background-color:red;
+}
+#s8-ads {
+    height:400px;
+    margin:30px 10px 10px 10px;
+    background-color:blue;
+}
+#s8-comp {
+    width:400px;
+    padding:20px 0 0 10px;
+}
+
+#vis-wrapper {
+    width:1250px;
+    margin: 0 auto;
+    background-color:white;
+}
+
+#vis-target {
+    width:16px;
+    height:16px;
+    position:absolute;
+    top:501px;
+    left:921px;
+}
+
+#vis-target-inst {
+    width:200px;
+    height:200px;
+}
+
+#vis-advert {
+    width:190px;
+    height:200px;
+    position:absolute;
+    top:395px;
+    left:1095px;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <!--
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+    -->
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.orange-light_blue.min.css" />
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  </head>
+  <body style="margin:20px;">
+    <div id="nav">
+      <?var url = get_script_url();?>
+      <a href='<?=url?>?page=index'> <input type='button' name='button' value='reload'></a>
+    </div>
+
+    <div id="rand">
+      <?var cond = condition_randomize();?>
+
+      <h1>welcome to study !</h1>
+
+      <p style="font-size:18px;">some info about the survey...</p>
+      
+      <!--
+      <a href='<?=url?>?page=cond-a'>
+        <input type='button' name='button' value='condition a' class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+      </a>
+      <a href='<?=url?>?page=cond-b'>
+        <input type='button' name='button' value='condition b' class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+      </a>
+      -->
+
+      <div>
+        <a href='<?=url?>?page=cond-<?=cond?>'>
+          <input type='button' name='button' value='go to randomized condition' class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+        </a>
+      </div>
+
+      <p style="font-size:18px;margin-top:100px;">content of course module on experiments</p>
+      <ul style="font-size:18px;">
+        <li>participate in sample experiment </li>
+        <li>descriptive analysis of results</li>
+        <li>inferential analysis, compare means</li>
+        <li>build within-subjects experiment </li>
+      </ul>
+    </div>
+
+  </body>
+</html>

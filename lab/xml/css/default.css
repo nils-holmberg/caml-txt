@@ -1,0 +1,118 @@
+/* general */
+body {margin:0px;padding:0px;font-family:"Verdana", "Arial", sans-serif;}
+h1 {}
+h2 {margin:50px}
+h3 {}
+p {line-height:180%;}
+a {color:blue;}
+
+#s8-wrapper {
+    width:982px;
+    margin: 0 auto;
+}
+
+/* instructions */
+.inst {
+    margin:30px 0 0 0;
+    padding:30px;
+    font-size:18px;
+}
+.inst a:link,
+.inst a:hover,
+.inst a:visited
+{
+    /* green: color:#94d487;*/
+    color:white;
+}
+.inst h1{color:white;}
+
+#inst-read {
+    background-color:#3b94d9;
+}
+#inst-viss {
+    background-color:#9266cc;
+}
+#inst-scan {
+    background-color:#dd2e44;
+}
+#inst-stop {
+    /* yellow: background-color:#ffcc4d;*/
+    background-color:#94d487;
+}
+
+/* text read, scan */
+#s8-header {
+    width:982px;
+    height:216px;
+    background-image: url(8s-header-3.png);
+}
+#s8-left {
+    float:left;
+    width:643px;
+    height:600px;
+    margin:0 0 0 1px;
+    background-color:white;
+}
+#s8-text {
+    margin:30px 0 0 0;
+    font-size:18px;
+    background-color:white;
+}
+#s8-right {
+    float:right;
+    width:306px;
+    height:640px;
+    margin:0 1px 0 0;
+    background-color:white;
+    border:0px solid blue;
+}
+#s8-ads {
+    width:306px;
+    height:620px;
+    margin:20px 0 0 0;
+    background-color:white;
+}
+#s8-comp {
+    padding:10px 0 0 0;
+}
+
+/* visual search */
+#vis-wrapper {
+    width:1250px;
+    margin: 0 auto;
+    background-color:white;
+}
+#vis-inst-target {
+    width:200px;
+    height:200px;
+}
+#vis-search-webpage {
+    float:left;
+    width:920px;
+    margin:0 0 0 1px;
+    background-color:white;
+}
+#vis-search-target {
+    width:16px;
+    height:16px;
+    position:absolute;
+    top:501px;
+    left:921px;
+    padding:16px;
+    border:1px solid red;
+}
+#vis-search-advert {
+    width:190px;
+    height:200px;
+    position:absolute;
+    top:395px;
+    left:1095px;
+}
+
+/* demo pages */
+
+#demo-wrapper {
+    width:700px;
+    margin: 0 auto;
+}
+
