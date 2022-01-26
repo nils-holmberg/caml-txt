@@ -2,8 +2,8 @@
 
 ## lab experiments
 
-- [instructions, pre-test](https://nils-holmberg.github.io/scom-expm/lab/xml/ins/html/001/inst-1.html)
-- [start experiment](https://nils-holmberg.github.io/scom-expm/lab/xml/exp/html/001/inst-1.html)
+- [start static html experiment](https://nils-holmberg.github.io/scom-expm/lab/xml/exp/html/001/inst-1.html)
+- [check instructions, pre-test](https://nils-holmberg.github.io/scom-expm/lab/xml/ins/html/001/inst-1.html)
 
 ## web experiments
 
