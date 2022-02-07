@@ -1,0 +1,51 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<script>
+if(Math.random() > 0.5) { 
+//window.location.href = "http://host/versionA"; 
+var cond = "a";
+} else {
+//window.location.href = "http://host/versionB"; 
+var cond = "b";
+}
+var cond_url = "https://nils-holmberg.github.io/scom-expm/web/tjs/cond-"+cond+".html";
+var cond_onc = "location.href='"+cond_url+"';";
+</script>
+
+<style>
+body {background-color: powderblue;}
+h1 {color: blue;}
+p {color: red;}
+div {margin:10px;}
+</style>
+</head>
+
+<body>
+<div>
+<h1>condition is.. <span id="cond"></span></h1>
+</div>
+
+<div>
+<input id="exp_b" type="button" onclick="" value="start experiment" />
+</div>
+
+<div>
+<a id="exp_a" href="" class="btn btn-primary">start experiment</a>
+</div>
+
+<script>
+document.getElementById("cond").innerHTML = cond;
+document.getElementById("exp_a").setAttribute("href", cond_url);
+document.getElementById("exp_b").setAttribute("onclick", cond_onc);
+</script>
+</body>
+
+
+</html>
+
+
+
+
+
