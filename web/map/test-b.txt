@@ -1,2 +1,4 @@
-img/scom-pol/c-2.jpg
-img/scom-pol/t-3.jpg
+../../img/smgmt/stim-c-2.jpg
+../../img/smgmt/stim-t-3.jpg
+../../img/smgmt/stim-t-4.jpg
+../../img/smgmt/stim-c-1.jpg
