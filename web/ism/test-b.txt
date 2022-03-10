@@ -1,4 +1,2 @@
-../../img/smgmt/stim-t-4.jpg
-../../img/smgmt/stim-c-1.jpg
-../../img/smgmt/stim-t-3.jpg
-../../img/smgmt/stim-c-2.jpg
+../../img/ism/stim-c-1.png
+../../img/ism/stim-t-2.png
