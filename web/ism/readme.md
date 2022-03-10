@@ -9,7 +9,7 @@
 ## build survey experiment in google
 - link to [google docs](https://drive.google.com/)
 
-## descriptive, inferential analysis
+## descriptive, inferential data analysis
 - link to [sample data](https://nils-holmberg.github.io/scom-expm/csv/ism-exp.csv)
 
 
