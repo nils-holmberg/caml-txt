@@ -7,7 +7,7 @@
 - link to [experiment](https://script.google.com/macros/s/AKfycbypeFEJJ6BCYGgBhDYyUTIwIsiWL6xiDipxxRveX1_ATqyUgZTmNRsEPbLh1txyQLMF/exec)
 
 ## build survey experiment in google
-- link to [google docs](https://drive.google.com/)
+- link to [google docs](https://drive.google.com/drive/folders/1oBtJoq4Gl3VBkN1azBRdYJuGOmHhJ5ps?usp=sharing)
 
 ## descriptive, inferential data analysis
 - link to [sample data](https://nils-holmberg.github.io/scom-expm/csv/ism-exp.tsv)
