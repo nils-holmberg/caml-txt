@@ -1,2 +1,2 @@
+../../img/ism/stim-t-0.png
 ../../img/ism/stim-t-1.png
-../../img/ism/stim-t-2.png
