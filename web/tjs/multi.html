@@ -10,7 +10,17 @@
 
 <!-- randomize experimental condition -->
 <script>
-x = Math.random(); 
+var x = Math.random(); 
+var cnum = 6;
+var cond = "x";
+for (let i=0; i<cnum; i++) {
+if (x >= i/cnum && x < (i+1)/cnum) { 
+var cond = String.fromCharCode(97 + i);
+}}
+//document.write(cond);
+//console.log(cond);
+
+if (false) {
 if (x >= 0 && x < 1/6) { 
 //window.location.href = "http://host/versionA"; 
 var cond = "a";
@@ -26,6 +36,9 @@ var cond = "e";
 //window.location.href = "http://host/versionB"; 
 var cond = "f";
 }
+//false
+}
+
 var cond_url = "https://nils-holmberg.github.io/scom-expm/web/tjs/cond-"+cond+".html";
 //var cond_url = "cond-"+cond+".html";
 var cond_onc = "location.href='"+cond_url+"';";
