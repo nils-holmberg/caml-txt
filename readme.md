@@ -15,7 +15,7 @@
 ## survey experiments
 
 - [start google experiment](https://script.google.com/macros/s/AKfycbxzg19e8OFh9X4fo8IHT2Y-TFvk4F2IxE69kdRv4ad8O65CFnV49G_kXpUSd1Zr9OY/exec)
-- [video on building experiment](https://www.youtube.com/watch?v=B02wZo9aEvI&t=795s)
+- [video on building experiment](https://www.youtube.com/watch?v=B02wZo9aEvI)
 - [barebones js experiment](https://nils-holmberg.github.io/scom-expm/web/tjs/)
 
 [![some alt text](https://img.youtube.com/vi/D23f5eO8n7U/0.jpg)](https://www.youtube.com/watch?v=D23f5eO8n7U)
