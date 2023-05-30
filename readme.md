@@ -16,6 +16,8 @@
 - [video on building experiment](https://www.youtube.com/watch?v=B02wZo9aEvI&t=795s)
 - [barebones js experiment](https://nils-holmberg.github.io/scom-expm/web/tjs/)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/D23f5eO8n7U/0.jpg)](https://www.youtube.com/watch?v=D23f5eO8n7U)
+
 ---
 
 - [nils-holmberg](https://github.com/nils-holmberg)
