@@ -5,6 +5,8 @@
 - [start static html experiment](https://nils-holmberg.github.io/scom-expm/lab/xml/exp/html/001/inst-1.html)
 - [check instructions, pre-test](https://nils-holmberg.github.io/scom-expm/lab/xml/ins/html/001/inst-1.html)
 
+[![some alt text](https://img.youtube.com/vi/fyoRPKk7l4I/0.jpg)](https://www.youtube.com/watch?v=fyoRPKk7l4I)
+
 ## web experiments
 
 - [start jspsych experiment](https://nils-holmberg.github.io/scom-expm/web/jsp/jspsych-exp-news.html)
@@ -16,7 +18,7 @@
 - [video on building experiment](https://www.youtube.com/watch?v=B02wZo9aEvI&t=795s)
 - [barebones js experiment](https://nils-holmberg.github.io/scom-expm/web/tjs/)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/D23f5eO8n7U/0.jpg)](https://www.youtube.com/watch?v=D23f5eO8n7U)
+[![some alt text](https://img.youtube.com/vi/D23f5eO8n7U/0.jpg)](https://www.youtube.com/watch?v=D23f5eO8n7U)
 
 ---
 
