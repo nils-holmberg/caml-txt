@@ -9,6 +9,7 @@
 
 ## web experiments
 
+- [start streamlit experiment](https://osm-exp.streamlit.app/)
 - [start jspsych experiment](https://nils-holmberg.github.io/scom-expm/web/jsp/jspsych-exp-news.html)
 - [start psychopy experiment](https://pavlovia.org/nils-holmberg/posner)
 
